@@ -1,0 +1,28 @@
+.f2{
+	border:1px solid ;
+	padding:10px;
+	margin-right:5px; 
+	border-radius: 50px;
+}
+.f1{
+	font-size: 15px;
+}
+.footer a{
+	color: grey;
+}
+.footer{
+	background-color: #212331;
+	background-image: url('assets/img/f1.png');
+background-repeat: no-repeat;
+    background-size: contain;
+	color:grey!important;
+	padding-bottom: 50px;
+}
+.footer-1{color:grey;background-color:#2B2D3B!important; 
+font-size: 13px;}
+.footer hr{
+	margin-top: 8px;
+	margin-bottom: 8px!important;
+	background-color: grey!important;
+	opacity: 0.3;
+}
